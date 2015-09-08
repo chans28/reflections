@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I would want a remote repository :
+1. when all of my work is finalized and I am pretty sure that there are minor bugs or no bugs
+2. I want to share the code so someone else can make changes and reuse it
+3. If I have a client I can make use of uploading my work to the client who has outsourced it to a third party freelancer. Hence he gets an update through the entire software development process.
+
